@@ -1,0 +1,11 @@
+[book]
+authors = ["Blezz-tech"]
+description = "Все мои заметки."
+language = "ru"
+multilingual = true
+src = "src"
+
+
+[output.html.fold] # Сворачивание элементов в оглавлении
+enable = true
+
